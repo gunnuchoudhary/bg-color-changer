@@ -1,0 +1,30 @@
+.convas {
+  text-align: center;
+  margin-top: 100px;
+}
+.span {
+  display: flex;
+  justify-content: center;
+}
+.button {
+  border: solid black 2px;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+#orange {
+  background-color: orange;
+  color: orange;
+}
+#red {
+  background-color: red;
+  color: red;
+}
+#green {
+  background-color: green;
+  color: green;
+}
+#blue {
+  background-color: blue;
+  color: blue;
+}
